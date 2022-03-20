@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.23)  20 MAR 2022 15:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.23)  20 MAR 2022 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,38 +559,38 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 [4] [5] [6]
-<paper_files/figure-latex/age-1.pdf, id=119, 463.7325pt x 316.18124pt>
+<paper_files/figure-latex/age-1.pdf, id=120, 463.7325pt x 316.18124pt>
 File: paper_files/figure-latex/age-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/age-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/age-1.pdf  used on input line
  221.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/gender-1.pdf, id=120, 463.7325pt x 313.17pt>
+<paper_files/figure-latex/gender-1.pdf, id=121, 463.7325pt x 313.17pt>
 File: paper_files/figure-latex/gender-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/gender-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/gender-1.pdf  used on input l
 ine 227.
 (pdftex.def)             Requested size: 463.73842pt x 313.174pt.
-<paper_files/figure-latex/education-1.pdf, id=121, 463.7325pt x 313.17pt>
+<paper_files/figure-latex/education-1.pdf, id=122, 463.7325pt x 313.17pt>
 File: paper_files/figure-latex/education-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/education-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/education-1.pdf  used on inpu
 t line 233.
 (pdftex.def)             Requested size: 463.73842pt x 313.174pt.
-<paper_files/figure-latex/household-size-1.pdf, id=122, 463.7325pt x 316.18124p
+<paper_files/figure-latex/household-size-1.pdf, id=123, 463.7325pt x 316.18124p
 t>
 File: paper_files/figure-latex/household-size-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/household-size-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/household-size-1.pdf  used on
  input line 239.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/province-1.pdf, id=123, 463.7325pt x 313.17pt>
+<paper_files/figure-latex/province-1.pdf, id=124, 463.7325pt x 313.17pt>
 File: paper_files/figure-latex/province-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/province-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/province-1.pdf  used on input
  line 245.
 (pdftex.def)             Requested size: 463.73842pt x 313.174pt.
-<paper_files/figure-latex/decision-of-giving-1.pdf, id=124, 463.7325pt x 317.18
+<paper_files/figure-latex/decision-of-giving-1.pdf, id=125, 463.7325pt x 317.18
 5pt>
 File: paper_files/figure-latex/decision-of-giving-1.pdf Graphic file (type pdf)
 
@@ -598,21 +598,21 @@ File: paper_files/figure-latex/decision-of-giving-1.pdf Graphic file (type pdf)
 Package pdftex.def Info: paper_files/figure-latex/decision-of-giving-1.pdf  use
 d on input line 251.
 (pdftex.def)             Requested size: 463.73842pt x 317.18904pt.
-<paper_files/figure-latex/financial-giving-1.pdf, id=125, 463.7325pt x 316.1812
+<paper_files/figure-latex/financial-giving-1.pdf, id=126, 463.7325pt x 316.1812
 4pt>
 File: paper_files/figure-latex/financial-giving-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/financial-giving-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/financial-giving-1.pdf  used 
 on input line 257.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/reason-of-giving-1.pdf, id=126, 463.7325pt x 316.1812
+<paper_files/figure-latex/reason-of-giving-1.pdf, id=127, 463.7325pt x 316.1812
 4pt>
 File: paper_files/figure-latex/reason-of-giving-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/reason-of-giving-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/reason-of-giving-1.pdf  used 
 on input line 263.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/reason-of-not-giving-1.pdf, id=127, 463.7325pt x 316.
+<paper_files/figure-latex/reason-of-not-giving-1.pdf, id=128, 463.7325pt x 316.
 18124pt>
 File: paper_files/figure-latex/reason-of-not-giving-1.pdf Graphic file (type pd
 f)
@@ -620,14 +620,14 @@ f)
 Package pdftex.def Info: paper_files/figure-latex/reason-of-not-giving-1.pdf  u
 sed on input line 269.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/volunteer-with-1.pdf, id=128, 463.7325pt x 316.18124p
+<paper_files/figure-latex/volunteer-with-1.pdf, id=129, 463.7325pt x 316.18124p
 t>
 File: paper_files/figure-latex/volunteer-with-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/volunteer-with-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/volunteer-with-1.pdf  used on
  input line 275.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/volunteer-experience-1.pdf, id=129, 463.7325pt x 316.
+<paper_files/figure-latex/volunteer-experience-1.pdf, id=130, 463.7325pt x 316.
 18124pt>
 File: paper_files/figure-latex/volunteer-experience-1.pdf Graphic file (type pd
 f)
@@ -635,7 +635,7 @@ f)
 Package pdftex.def Info: paper_files/figure-latex/volunteer-experience-1.pdf  u
 sed on input line 281.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/reason-for-volunteering-1.pdf, id=130, 463.7325pt x 3
+<paper_files/figure-latex/reason-for-volunteering-1.pdf, id=131, 463.7325pt x 3
 16.18124pt>
 File: paper_files/figure-latex/reason-for-volunteering-1.pdf Graphic file (type
  pdf)
@@ -643,7 +643,7 @@ File: paper_files/figure-latex/reason-for-volunteering-1.pdf Graphic file (type
 Package pdftex.def Info: paper_files/figure-latex/reason-for-volunteering-1.pdf
   used on input line 287.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/reason-for-not-volunteering-1.pdf, id=131, 463.7325pt
+<paper_files/figure-latex/reason-for-not-volunteering-1.pdf, id=132, 463.7325pt
  x 316.18124pt>
 File: paper_files/figure-latex/reason-for-not-volunteering-1.pdf Graphic file (
 type pdf)
@@ -651,14 +651,14 @@ type pdf)
 Package pdftex.def Info: paper_files/figure-latex/reason-for-not-volunteering-1
 .pdf  used on input line 293.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/youth-experience-1.pdf, id=132, 463.7325pt x 316.1812
+<paper_files/figure-latex/youth-experience-1.pdf, id=133, 463.7325pt x 316.1812
 4pt>
 File: paper_files/figure-latex/youth-experience-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/youth-experience-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/youth-experience-1.pdf  used 
 on input line 299.
 (pdftex.def)             Requested size: 463.73842pt x 316.18529pt.
-<paper_files/figure-latex/religious-participation-services-1.pdf, id=133, 463.7
+<paper_files/figure-latex/religious-participation-services-1.pdf, id=134, 463.7
 325pt x 315.1775pt>
 File: paper_files/figure-latex/religious-participation-services-1.pdf Graphic f
 ile (type pdf)
@@ -677,7 +677,7 @@ ure-latex/volunteer-experience-1.pdf>] [18 <./paper_files/figure-latex/reason-f
 or-volunteering-1.pdf>] [19 <./paper_files/figure-latex/reason-for-not-voluntee
 ring-1.pdf>] [20 <./paper_files/figure-latex/youth-experience-1.pdf>] [21 <./pa
 per_files/figure-latex/religious-participation-services-1.pdf>]
-<../../inputs/survey_images/demographic_screenshot_1.png, id=305, 548.0475pt x 
+<../../inputs/survey_images/demographic_screenshot_1.png, id=306, 548.0475pt x 
 820.06375pt>
 File: ../../inputs/survey_images/demographic_screenshot_1.png Graphic file (typ
 e png)
@@ -688,7 +688,7 @@ g  used on input line 319.
 
 LaTeX Warning: Float too large for page by 23.98546pt on input line 321.
 
-<../../inputs/survey_images/demographic_screenshot_2.png, id=307, 546.04pt x 50
+<../../inputs/survey_images/demographic_screenshot_2.png, id=308, 546.04pt x 50
 7.8975pt>
 File: ../../inputs/survey_images/demographic_screenshot_2.png Graphic file (typ
 e png)
@@ -696,7 +696,7 @@ e png)
 Package pdftex.def Info: ../../inputs/survey_images/demographic_screenshot_2.pn
 g  used on input line 325.
 (pdftex.def)             Requested size: 469.76022pt x 436.94609pt.
-<../../inputs/survey_images/demographic_screenshot_3.png, id=308, 547.04375pt x
+<../../inputs/survey_images/demographic_screenshot_3.png, id=309, 547.04375pt x
  675.52374pt>
 File: ../../inputs/survey_images/demographic_screenshot_3.png Graphic file (typ
 e png)
@@ -704,7 +704,7 @@ e png)
 Package pdftex.def Info: ../../inputs/survey_images/demographic_screenshot_3.pn
 g  used on input line 331.
 (pdftex.def)             Requested size: 469.76398pt x 580.09387pt.
-<../../inputs/survey_images/giving_screenshot_1.png, id=309, 548.0475pt x 813.0
+<../../inputs/survey_images/giving_screenshot_1.png, id=310, 548.0475pt x 813.0
 375pt>
 File: ../../inputs/survey_images/giving_screenshot_1.png Graphic file (type png
 )
@@ -715,7 +715,7 @@ ed on input line 337.
 
 LaTeX Warning: Float too large for page by 23.97012pt on input line 339.
 
-<../../inputs/survey_images/giving_screenshot_2.png, id=310, 547.04375pt x 385.
+<../../inputs/survey_images/giving_screenshot_2.png, id=311, 547.04375pt x 385.
 44pt>
 File: ../../inputs/survey_images/giving_screenshot_2.png Graphic file (type png
 )
@@ -723,7 +723,7 @@ File: ../../inputs/survey_images/giving_screenshot_2.png Graphic file (type png
 Package pdftex.def Info: ../../inputs/survey_images/giving_screenshot_2.png  us
 ed on input line 343.
 (pdftex.def)             Requested size: 469.76398pt x 330.98967pt.
-<../../inputs/survey_images/giving_screenshot_3.png, id=311, 548.0475pt x 833.1
+<../../inputs/survey_images/giving_screenshot_3.png, id=312, 548.0475pt x 833.1
 125pt>
 File: ../../inputs/survey_images/giving_screenshot_3.png Graphic file (type png
 )
@@ -734,7 +734,7 @@ ed on input line 349.
 
 LaTeX Warning: Float too large for page by 23.97517pt on input line 351.
 
-<../../inputs/survey_images/volunteering_screenshot_1.png, id=312, 548.0475pt x
+<../../inputs/survey_images/volunteering_screenshot_1.png, id=313, 548.0475pt x
  415.5525pt>
 File: ../../inputs/survey_images/volunteering_screenshot_1.png Graphic file (ty
 pe png)
@@ -742,7 +742,7 @@ pe png)
 Package pdftex.def Info: ../../inputs/survey_images/volunteering_screenshot_1.p
 ng  used on input line 355.
 (pdftex.def)             Requested size: 469.76459pt x 356.19513pt.
-<../../inputs/survey_images/volunteering_screenshot_2.png, id=313, 547.04375pt 
+<../../inputs/survey_images/volunteering_screenshot_2.png, id=314, 547.04375pt 
 x 487.8225pt>
 File: ../../inputs/survey_images/volunteering_screenshot_2.png Graphic file (ty
 pe png)
@@ -750,7 +750,7 @@ pe png)
 Package pdftex.def Info: ../../inputs/survey_images/volunteering_screenshot_2.p
 ng  used on input line 361.
 (pdftex.def)             Requested size: 469.76398pt x 418.9088pt.
-<../../inputs/survey_images/volunteering_screenshot_3.png, id=314, 545.03625pt 
+<../../inputs/survey_images/volunteering_screenshot_3.png, id=315, 545.03625pt 
 x 520.94624pt>
 File: ../../inputs/survey_images/volunteering_screenshot_3.png Graphic file (ty
 pe png)
@@ -758,7 +758,7 @@ pe png)
 Package pdftex.def Info: ../../inputs/survey_images/volunteering_screenshot_3.p
 ng  used on input line 367.
 (pdftex.def)             Requested size: 469.7533pt x 448.99072pt.
-<../../inputs/survey_images/participating_screenshot_1.png, id=315, 546.04pt x 
+<../../inputs/survey_images/participating_screenshot_1.png, id=316, 546.04pt x 
 800.9925pt>
 File: ../../inputs/survey_images/participating_screenshot_1.png Graphic file (t
 ype png)
@@ -769,7 +769,7 @@ png  used on input line 373.
 
 LaTeX Warning: Float too large for page by 23.977pt on input line 375.
 
-<../../inputs/survey_images/thank_you.png, id=316, 548.0475pt x 404.51125pt>
+<../../inputs/survey_images/thank_you.png, id=317, 548.0475pt x 404.51125pt>
 File: ../../inputs/survey_images/thank_you.png Graphic file (type png)
 <use ../../inputs/survey_images/thank_you.png>
 Package pdftex.def Info: ../../inputs/survey_images/thank_you.png  used on inpu
@@ -812,10 +812,10 @@ r/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texl
 ive/2021/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2021/texmf-dist/fo
 nts/type1/public/lm/lmtt10.pfb>
-Output written on paper.pdf (39 pages, 2176692 bytes).
+Output written on paper.pdf (39 pages, 2176549 bytes).
 PDF statistics:
- 570 PDF objects out of 1000 (max. 8388607)
- 446 compressed objects within 5 object streams
+ 571 PDF objects out of 1000 (max. 8388607)
+ 447 compressed objects within 5 object streams
  113 named destinations out of 1000 (max. 500000)
  45355 words of extra memory for PDF output out of 51595 (max. 10000000)
 
